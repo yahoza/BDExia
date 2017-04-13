@@ -1,4 +1,8 @@
 # BDExia
 Projet Web - Groupe 3
-Ceci est un test
-Ceci est un autre test
+URL Hébergement :
+Branches :
+- Vues (templates format twig)
+- Contrôleurs
+- Modèles
+- Data (Entities)
