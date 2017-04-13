@@ -9,3 +9,8 @@ Projet Web - Groupe 3
 - Contrôleurs
 - Modèles
 - Data (Entities)
+
+## Contributeurs :
+- Alexis Lucas
+- François Caillat
+- Quentin Lebarillier
