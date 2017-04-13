@@ -1,8 +1,8 @@
 # BDExia
-    Projet Web - Groupe 3
+Projet Web - Groupe 3
 
 ## URL Hébergement :
-    [url](#)
+[url](#)
 
 ## Branches :
 - Vues (templates format twig)
